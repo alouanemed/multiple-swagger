@@ -6,7 +6,6 @@
 
 ```sh
 cd plutusSwagger
-npm init
 npm install express --save
 npm install --save swagger-jsdoc swagger-ui-express
 ```
